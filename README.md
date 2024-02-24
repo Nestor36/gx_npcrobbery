@@ -1,7 +1,7 @@
 # gx_npcrobbery
 Sistema de robos con NPC's
 
-• U can infinity zones!!!
+• U can infinity zones!!! <br>
 • U can add coords, new zone for robbery u another activity..
 • U can editing npc's, Weapons
 • U can edit rounds where npc' attack for player
