@@ -18,3 +18,5 @@ Future: <br>
 This is free, created for my.. XD  <br>
  
 ![imagen](https://github.com/Nestor36/gx_npcrobbery/assets/62574741/189c2b72-7ab1-4735-b690-5ccb1a4f92b5)
+
+![imagen](https://github.com/Nestor36/gx_npcrobbery/assets/62574741/bd5a5ca5-bce5-4b2d-88d9-bfcc7121c0ad)
